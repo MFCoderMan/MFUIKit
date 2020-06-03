@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "MFUIKit"
-  spec.version      = "0.0.2"
+  spec.version      = "0.0.1"
   spec.summary      = "A short description of MFUIKit."
   spec.description  = "A description of MFUIKit."
   spec.homepage     = "https://github.com/MFCoderMan/MFUIKit.git"
